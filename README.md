@@ -1,8 +1,6 @@
-# Frontend Assessment "number8" Documentation
-
 ## Introduction
 
-Welcome to the documentation for the Frontend Assessment "number8", a state-of-the-art platform designed to streamline the property search and listing process. This document serves as a comprehensive guide to the application's architecture, technologies, and organizational structure.
+Welcome to the documentation for the Property web, a state-of-the-art platform designed to streamline the property search and listing process. This document serves as a comprehensive guide to the application's architecture, technologies, and organizational structure.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
