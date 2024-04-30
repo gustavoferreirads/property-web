@@ -6,7 +6,7 @@ import {ReduxProvider} from "@/redux/provider";
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Frontend Assessment number8',
+  title: 'Property List',
   description: 'Created by Joao Gustavo',
 }
 
